@@ -1,0 +1,1 @@
+{"version":3,"file":"CharacterCollection.d.ts","sourceRoot":"","sources":["../src/CharacterCollection.ts"],"names":[],"mappings":"AAAA,qBAAa,mBAAmB;IACX,IAAI,EAAE,MAAM;gBAAZ,IAAI,EAAE,MAAM;IAE/B,IAAI,MAAM,IAAI,MAAM,CAEnB;IAED,OAAO,CAAC,SAAS,EAAE,MAAM,EAAE,UAAU,EAAE,MAAM,GAAG,OAAO;IAMvD,IAAI,CAAC,SAAS,EAAE,MAAM,EAAE,UAAU,EAAE,MAAM,GAAG,IAAI;CAOlD"}
